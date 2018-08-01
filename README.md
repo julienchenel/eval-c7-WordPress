@@ -1,4 +1,5 @@
-# Evaluation C7 - Wordpress - Julien Chénel
+# Evaluation C7 - Wordpress
+### Autheur: Julien Chénel
 
 __Adresse du site :__ [http://neiluj.alwaysdata.net/](http://neiluj.alwaysdata.net/)
 
@@ -17,7 +18,7 @@ __Adresse du site :__ [http://neiluj.alwaysdata.net/](http://neiluj.alwaysdata.n
 
 ## Usage d'un plugin dédié . Exemple de Yoast SEO
 
-* Activer une extension telle que Yoast SEO. Se rendre sur l'article ciblé. En bas de l'éditeur enrichie regarder l'analyse du plug-in concernant l'article dans la fenêtre dédiée. Dans le cas de l'article "L'Ariège vers la transition numérique", voici ce qui est ennoncé : 
+* Activer une extension telle que Yoast SEO. Se rendre sur l'article ciblé. En bas de l'éditeur enrichie regarder l'analyse du plug-in concernant l'article dans la fenêtre dédiée. Dans le cas de l'article "L'Ariège vers la transition numérique", voici ce qui est ennoncé :
 
     * 8.3% des phrases contiennent un mot ou une phrase de transition , ce qui est inférieur au minimum recommandé de 30%.
 
@@ -36,11 +37,3 @@ __Adresse du site :__ [http://neiluj.alwaysdata.net/](http://neiluj.alwaysdata.n
 |__Vue du plugin Yoast sous un article dans WordPress__|
 | :------------ |
 |![img](Vue-YoastSEO.png "Vue du plugin Yoast sous un article dans WordPress")|
-
-
-
-
-    
-
-
-# eval-c7-WordPress
